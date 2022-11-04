@@ -1,2 +1,2 @@
 # Machine-Learning-Projects
-Code for 30 Machine Learning Projectst
+Code for 30 Machine Learning Projects
